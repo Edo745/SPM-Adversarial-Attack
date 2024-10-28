@@ -1,6 +1,10 @@
 ## Overview
 This repository contains the implementation of adversarial attacks on the MNIST dataset using the Sequential Penalty Method (SPM). The approach focuses on generating adversarial examples that force a classifier to misclassify an image by introducing minimal perturbations, ensuring the changes are imperceptible to humans while still deceiving the machine learning model.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/674840d8-3491-450b-a975-b5ffb7049123" width="800"/> 
+</p> 
+
 ## Introduction
 
 Adversarial attacks are techniques used to deceive machine learning models by introducing small, carefully crafted perturbations to the input data. These perturbations are generally imperceptible to humans but can cause a model to make incorrect predictions. In this project, we implement a **Sequential Penalty Method** to carry out adversarial attacks on images from the MNIST dataset.
@@ -253,11 +257,6 @@ The use of a larger step drastically reduces the number of iterations needed to 
 *   
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d79fceaf-169d-4f96-97bd-a97979bc65fa" width="800"/> 
-</p> 
-
-*
-<p align="center">
-<img src="https://github.com/user-attachments/assets/674840d8-3491-450b-a975-b5ffb7049123" width="800"/> 
 </p> 
 
 ## Usage
